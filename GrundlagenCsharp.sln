@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_Aufgabe1", "Arrays_Aufgabe1\Arrays_Aufgabe1.csproj", "{2FBAAADF-545D-49BB-B83A-21152775398E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_Aufgabe1", "Arrays_Aufgabe1\Arrays_Aufgabe1.csproj", "{2FBAAADF-545D-49BB-B83A-21152775398E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgaben_Übungsklausur_2", "Aufgaben_Übungsklausur_2\Aufgaben_Übungsklausur_2.csproj", "{F62F8773-1E4C-444E-9E8E-8EBCB0C5C330}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aufgaben_Übungsklausur_2", "Aufgaben_Übungsklausur_2\Aufgaben_Übungsklausur_2.csproj", "{F62F8773-1E4C-444E-9E8E-8EBCB0C5C330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Bubblesort", "Array_Bubblesort\Array_Bubblesort.csproj", "{36147CBC-66F8-4E41-A74C-A9C4A2A98C27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F62F8773-1E4C-444E-9E8E-8EBCB0C5C330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F62F8773-1E4C-444E-9E8E-8EBCB0C5C330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F62F8773-1E4C-444E-9E8E-8EBCB0C5C330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36147CBC-66F8-4E41-A74C-A9C4A2A98C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36147CBC-66F8-4E41-A74C-A9C4A2A98C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36147CBC-66F8-4E41-A74C-A9C4A2A98C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36147CBC-66F8-4E41-A74C-A9C4A2A98C27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
