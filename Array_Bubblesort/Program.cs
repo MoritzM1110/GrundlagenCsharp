@@ -13,28 +13,32 @@ namespace Array_Bubblesort
 
             for (int index = 0; index < n - 1; index++)
             {
-                Console.WriteLine(index);
+                
 
-                if (daten[index] > daten[index + 1])
+                if (daten[index + 0] < daten[index + 1])
                 {
                     double buffer = daten[index + 1];
                     daten[index + 1] = daten[index];
                     daten[index] = buffer;
                 }
-                else if (daten[index + 1] > daten[index + 2]) 
+                else if (daten[index + 1] < daten[index + 2]) 
                 {
                     double buffer2 = daten[index + 2];
                     daten[index + 2] = daten[index + 1];
                     daten[index + 1] = buffer2;
                 }
-
-                else if (daten[index + 2] > daten[index + 3]) 
+                else if (daten[index + 2] < daten[index + 3]) 
                 {
                     double buffer3 = daten[index + 3];
                     daten[index + 3] = daten[index + 2];
                     daten[index + 2] = buffer3;
                 }
-           
+
+                for (int i = 0; i <=daten.Length -1; i++)
+                {
+                    Console.WriteLine(daten[i]);
+                }
+
             }
 
 
