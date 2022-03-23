@@ -34,7 +34,7 @@ namespace Array_Bubblesort
                     daten[index + 2] = buffer3;
                 }
 
-                for (int i = 0; i <=daten.Length -1; i++)
+                while (int i = 0; i <=daten.Length -1; i++)
                 {
                     Console.WriteLine(daten[i]);
                 }
