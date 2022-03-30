@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aufgaben_Übungsklausur_2",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Bubblesort", "Array_Bubblesort\Array_Bubblesort.csproj", "{36147CBC-66F8-4E41-A74C-A9C4A2A98C27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden_Aufgabe", "Methoden_Aufgabe\Methoden_Aufgabe.csproj", "{F3424D0A-D510-44E8-9500-23D05DBB74DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methoden_Aufgabe", "Methoden_Aufgabe\Methoden_Aufgabe.csproj", "{F3424D0A-D510-44E8-9500-23D05DBB74DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel Methode", "Hotel Methode\Hotel Methode.csproj", "{01CFC68E-F066-4456-AB20-5BAD6476AB34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F3424D0A-D510-44E8-9500-23D05DBB74DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3424D0A-D510-44E8-9500-23D05DBB74DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3424D0A-D510-44E8-9500-23D05DBB74DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CFC68E-F066-4456-AB20-5BAD6476AB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CFC68E-F066-4456-AB20-5BAD6476AB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CFC68E-F066-4456-AB20-5BAD6476AB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CFC68E-F066-4456-AB20-5BAD6476AB34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
